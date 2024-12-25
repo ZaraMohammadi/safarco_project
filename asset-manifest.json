@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/safarco_project/static/css/main.13385536.css",
-    "main.js": "/safarco_project/static/js/main.88691ca7.js",
+    "main.js": "/safarco_project/static/js/main.14581665.js",
     "static/js/453.883442c2.chunk.js": "/safarco_project/static/js/453.883442c2.chunk.js",
     "static/media/Vazir.woff2": "/safarco_project/static/media/Vazir.0236d12799f12ebefd2d.woff2",
     "index.html": "/safarco_project/index.html",
     "main.13385536.css.map": "/safarco_project/static/css/main.13385536.css.map",
-    "main.88691ca7.js.map": "/safarco_project/static/js/main.88691ca7.js.map",
+    "main.14581665.js.map": "/safarco_project/static/js/main.14581665.js.map",
     "453.883442c2.chunk.js.map": "/safarco_project/static/js/453.883442c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13385536.css",
-    "static/js/main.88691ca7.js"
+    "static/js/main.14581665.js"
   ]
 }
